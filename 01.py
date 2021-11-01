@@ -9,3 +9,5 @@ print ("LANGAGE PYTHON\n\
     \t> Domaine   : programmation\n\
     \t> Créateur  : Guido van Rossum\n\
     \t> Site      : https//www.python.org")
+
+"""tests pour avoir une MAJ de fichier"""
