@@ -1,7 +1,7 @@
 import requests
 
-CLIENT_ID = "6187a268432faf302646be9a"
-CLIENT_SECRET = "UWXYHhY9nj0TQPBAGRdaFNMQmS1OGit02JuRmbzR"
+CLIENT_ID = "tdb"
+CLIENT_SECRET = "tdb"
 REDIRECT_URL = "https://gmail.com"
 AUTHORIZE_URL = "https://api.netatmo.com/oauth2/authorize"
 ACCESS_TOKEN_URL = "https://api.netatmo.com/oauth2/token"
