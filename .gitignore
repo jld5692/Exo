@@ -1,2 +1,3 @@
 # exclusion de la gestion git des fichiers commencant par properties. Pour le pas propager sous giithub mes clés !
 properties*
+settings*
