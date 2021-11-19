@@ -19,7 +19,7 @@ class Token:
         
         access_token_response = requests.post(ACCESS_TOKEN_URL, data=data)
     
-        #print(access_token_response.text)
+        print(access_token_response.url)
 
         if access_token_response.status_code !=200:
             print("Aye caramba !")
